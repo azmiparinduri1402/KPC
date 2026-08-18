@@ -1,0 +1,30 @@
+#border{
+    border: black solid;
+    padding: 2em;
+}
+
+.imgdiv{
+    display: inline-block;
+}
+
+.imgdiv img{
+    width: 200px;
+}
+
+#android:hover img {
+    width: 400px;
+
+}
+
+#windows:hover img {
+    border: dotted;
+}
+
+#ios:hover img {
+    width:100px;
+}
+
+.Infodiv{
+    margin-top: 500px;
+    margin-bottom: 600px;
+}
